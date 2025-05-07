@@ -1,0 +1,6 @@
+jklm,jklmn,manager
+efghi,efghijk,chef
+muser,mpassword,Manager
+efgh,efghi,admin
+denny,denny123,admin
+jenny,jenny123,Manager
