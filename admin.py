@@ -134,3 +134,12 @@ def admin_main(username):
     elif choice == "4":
         update_profile()
     
+
+    # can be used in VS code Terminal, Git bash, Command
+    # to push in GIT -
+# git init (to initialise GIT) (only to be used once in the initial phase)
+# git add . (to add entire files), git add specific folder/ files (example - git add admin.py)
+# git commit -m "Message" (specify the task in the message)
+# git remote add origin url (the url of github repository) (to be used only in the intital phase)
+# git push origin branchname
+# git clone url (paste the url of repo copied from github)
